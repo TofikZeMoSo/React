@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652887353043" clover="3.2.0">
+  <project timestamp="1652887353043" name="All files">
+    <metrics statements="312" coveredstatements="129" conditionals="44" coveredconditionals="9" methods="105" coveredmethods="40" elements="461" coveredelements="178" complexity="0" loc="312" ncloc="312" packages="31" files="69" classes="69"/>
+    <package name="src">
+      <metrics statements="19" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="App.tsx" path="/home/sanafm/my-blinkist-app/src/App.tsx">
+        <metrics statements="9" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="/home/sanafm/my-blinkist-app/src/index.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="reportWebVitals.ts" path="/home/sanafm/my-blinkist-app/src/reportWebVitals.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ProgressBar.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/ProgressBar.tsx">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Avatar">
+      <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="MyAvatar.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Avatar/MyAvatar.stories.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="MyAvatar.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Avatar/MyAvatar.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="11" type="stmt"/>
+        <line num="23" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Blinklistlogo">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Blinklistlogo.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Blinklistlogo/Blinklistlogo.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="Blinklistlogo.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Blinklistlogo/Blinklistlogo.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="26" count="11" type="stmt"/>
+        <line num="28" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.DownArrow">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="DownArrow.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/DownArrow/DownArrow.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="DownArrow.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/DownArrow/DownArrow.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.MylibraryTitle">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="MyLibrary.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/MylibraryTitle/MyLibrary.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="MyLibraryTitle.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/MylibraryTitle/MyLibraryTitle.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.PlusIcon">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="PlusIcon.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/PlusIcon/PlusIcon.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="100" type="stmt"/>
+        <line num="28" count="100" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Searchicon">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="MySearchicon.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Searchicon/MySearchicon.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="MySearchicon.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Searchicon/MySearchicon.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="9" type="stmt"/>
+        <line num="28" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Tabs">
+      <metrics statements="10" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="3" coveredmethods="1"/>
+      <file name="MyTabs.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Tabs/MyTabs.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="MyTabs.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/Tabs/MyTabs.tsx">
+        <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.TimeIcon">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="TimeIcon.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/TimeIcon/TimeIcon.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="TimeIcon.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/TimeIcon/TimeIcon.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.UpArrow">
+      <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="UpArrow.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/UpArrow/UpArrow.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.UserIcon">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="UserIcon.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/UserIcon/UserIcon.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="UserIcon.tsx" path="/home/sanafm/my-blinkist-app/src/components/atoms/UserIcon/UserIcon.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="184" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.BookCard">
+      <metrics statements="38" coveredstatements="31" conditionals="4" coveredconditionals="2" methods="13" coveredmethods="9"/>
+      <file name="BookCard.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/BookCard/BookCard.stories.tsx">
+        <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="100" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+      </file>
+      <file name="BookCard.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/BookCard/BookCard.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="142" count="100" type="stmt"/>
+        <line num="143" count="100" type="stmt"/>
+      </file>
+      <file name="CurrentCard.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/BookCard/CurrentCard.stories.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+      <file name="CurrentCard.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/BookCard/CurrentCard.tsx">
+        <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="147" count="4" type="stmt"/>
+        <line num="149" count="84" type="stmt"/>
+        <line num="150" count="84" type="stmt"/>
+        <line num="152" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="154" count="9" type="stmt"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="156" count="1" type="stmt"/>
+        <line num="157" count="1" type="stmt"/>
+        <line num="158" count="1" type="stmt"/>
+        <line num="163" count="1" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+        <line num="171" count="84" type="stmt"/>
+        <line num="199" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Category">
+      <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Category.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/Category/Category.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+      <file name="Category.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/Category/Category.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="41" count="91" type="stmt"/>
+        <line num="42" count="91" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.SearchBar">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="SearchBar.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/SearchBar/SearchBar.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="SearchBar.tsx" path="/home/sanafm/my-blinkist-app/src/components/molecules/SearchBar/SearchBar.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.AppBar">
+      <metrics statements="14" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="1"/>
+      <file name="MyAppBar.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/AppBar/MyAppBar.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="MyAppBar.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/AppBar/MyAppBar.tsx">
+        <metrics statements="12" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="1"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="156" count="5" type="stmt"/>
+        <line num="157" count="4" type="stmt"/>
+        <line num="160" count="4" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="165" count="4" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="176" count="4" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.AppBarWithCategories">
+      <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="AppBarWithCategories.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/AppBarWithCategories/AppBarWithCategories.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="AppBarWithCategories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/AppBarWithCategories/AppBarWithCategories.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="135" count="6" type="stmt"/>
+        <line num="139" count="5" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.BeyondEntrepreneurship">
+      <metrics statements="29" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="BeyondEntrepreneurship.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/BeyondEntrepreneurship/BeyondEntrepreneurship.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="BeyondEntrepreneurship.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/BeyondEntrepreneurship/BeyondEntrepreneurship.tsx">
+        <metrics statements="27" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="172" count="0" type="stmt"/>
+        <line num="173" count="0" type="stmt"/>
+        <line num="187" count="0" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="210" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="215" count="0" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="220" count="0" type="stmt"/>
+        <line num="221" count="0" type="stmt"/>
+        <line num="240" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="243" count="0" type="stmt"/>
+        <line num="259" count="0" type="stmt"/>
+        <line num="261" count="0" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="265" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="269" count="0" type="stmt"/>
+        <line num="274" count="0" type="stmt"/>
+        <line num="291" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="322" count="0" type="stmt"/>
+        <line num="324" count="0" type="stmt"/>
+        <line num="327" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.ExploreBooks">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="ExploreBooks.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreBooks/ExploreBooks.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="ExploreBooks.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreBooks/ExploreBooks.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.ExploreCategories">
+      <metrics statements="16" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <file name="ExploreByCategory.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/ExploreByCategory.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+      </file>
+      <file name="ExploreCategories.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/ExploreCategories.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="ExploreCategories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/ExploreCategories.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+      </file>
+      <file name="Headers.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/Headers.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+      </file>
+      <file name="Populartitles.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/Populartitles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+      </file>
+      <file name="RecentlyAddedTitles.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/ExploreCategories/RecentlyAddedTitles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="Footer.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/Footer.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="Footer.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/Footer.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.BlinklistAndIdeas">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="BlinkListAndIdeas.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/BlinklistAndIdeas/BlinkListAndIdeas.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.Company">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Company.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/Company/Company.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.Footer_Editorial">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Editorial.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/Footer_Editorial/Editorial.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.Sitemap">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Sitemap.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/Sitemap/Sitemap.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.UsefulLinks">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="UsefulLinks.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/Footer/UsefulLinks/UsefulLinks.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.GridOfBooks">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="CurrentlyReading.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/GridOfBooks/CurrentlyReading.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+      </file>
+      <file name="FinishedReading.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/GridOfBooks/FinishedReading.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="GridOfBooks.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/GridOfBooks/GridOfBooks.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="11" type="stmt"/>
+        <line num="30" count="11" type="stmt"/>
+        <line num="34" count="11" type="stmt"/>
+        <line num="39" count="98" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="GridOfFinishedBooks.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/GridOfBooks/GridOfFinishedBooks.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.TrendingBlinks">
+      <metrics statements="20" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="8"/>
+      <file name="FeaturedAudioBlinksdata.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/TrendingBlinks/FeaturedAudioBlinksdata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="JustAddeddata.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/TrendingBlinks/JustAddeddata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="TrendingBlinks.stories.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/TrendingBlinks/TrendingBlinks.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="TrendingBlinks.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/TrendingBlinks/TrendingBlinks.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="11" type="stmt"/>
+        <line num="57" count="11" type="stmt"/>
+        <line num="59" count="11" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="83" count="66" type="stmt"/>
+        <line num="102" count="33" type="stmt"/>
+        <line num="118" count="33" type="stmt"/>
+      </file>
+      <file name="TrendingBlinksdata.tsx" path="/home/sanafm/my-blinkist-app/src/components/organisms/TrendingBlinks/TrendingBlinksdata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.themes">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="theme.tsx" path="/home/sanafm/my-blinkist-app/src/components/themes/theme.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="12" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="Page2.tsx" path="/home/sanafm/my-blinkist-app/src/pages/Page2.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="Page3.tsx" path="/home/sanafm/my-blinkist-app/src/pages/Page3.tsx">
+        <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.stories">
+      <metrics statements="26" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="Button.stories.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Button.stories.tsx">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+      </file>
+      <file name="Button.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Button.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+      </file>
+      <file name="Header.stories.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Header.stories.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="Header.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Header.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="Page.stories.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Page.stories.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="Page.tsx" path="/home/sanafm/my-blinkist-app/src/stories/Page.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
