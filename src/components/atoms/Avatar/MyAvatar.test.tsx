@@ -4,7 +4,7 @@ import MyAvatar from "../Avatar/MyAvatar"
 test("MyAvatar Alphabet should be A",()=>{
 
     render(
-        <MyAvatar alphabet="S"/>
+        <MyAvatar alphabet="A"/>
     );
 
      const alphabet = screen.getByText('A');
@@ -13,13 +13,13 @@ test("MyAvatar Alphabet should be A",()=>{
 
 });
 
-test("MyAvatar Alphabet should be S",()=>{
+test("MyAvatar Alphabet should be A",()=>{
 
     render(
-        <MyAvatar alphabet="S"/>
+        <MyAvatar alphabet="A"/>
     );
 
-     const alphabet = screen.getByText('S');
+     const alphabet = screen.getByText('A');
 
      expect(alphabet).toBeInTheDocument();
 
