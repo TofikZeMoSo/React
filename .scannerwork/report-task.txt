@@ -1,0 +1,7 @@
+organization=tofikzemoso
+projectKey=TofikZemoso_blinklist
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29861
+dashboardUrl=https://sonarcloud.io/dashboard?id=TofikZemoso_blinklist
+ceTaskId=AYGlFDBzHUYyxNiUlhOs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYGlFDBzHUYyxNiUlhOs
